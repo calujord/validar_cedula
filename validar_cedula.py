@@ -22,4 +22,4 @@ def verificar_cedula(cedula=""):
             return False
 
 
-print verificar_cedula("0923797856")
+print verificar_cedula("1212121212")
